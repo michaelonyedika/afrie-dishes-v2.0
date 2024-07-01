@@ -1,1 +1,3 @@
-# afrie-dishes-v2.0
+# Afrie-dishes-v2.0
+
+Afrie Dishes is a visually appealing landing page dedicated to showcasing a variety of beautiful and authentic African food recipes. This dynamic and responsive site is built using React, a popular JavaScript library for building user interfaces, and Tailwind CSS, a utility-first CSS framework that enables rapid UI development. Afrie Dishes offers users an engaging and intuitive experience, making it easy to explore and discover delicious African cuisine. The combination of React and Tailwind CSS ensures a seamless and visually pleasing user interface that enhances the overall browsing experience.
